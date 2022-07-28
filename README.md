@@ -8,8 +8,6 @@ Tecnoframe institutional website
 ## Autores
 
 - [@omatheusreis](https://www.github.com/omatheusreis)
-- Tales
-
 
 ## License
 
